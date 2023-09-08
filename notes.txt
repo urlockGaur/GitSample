@@ -1,0 +1,16 @@
+github Notes
+
+issue - comment system
+way for ppl worldwide to work on same code way to work in teams
+branch - alt timeline to make changes to code
+pull - let you show others changes you are making
+merge in - makes changes live to project
+
+version control system - records changes over time - repo
+centralized - central server to share changes - single point of failure - server crash, can;t work
+distributed - everyone has project on machine. sync work via git, etc
+
+commit often, pull before working on file
+communication, task management
+single commits for big items. dont wait to commit
+
